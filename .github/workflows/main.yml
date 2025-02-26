@@ -1,3 +1,5 @@
+name: First action
+
 on:
     workflow_dispatch:
     push:
@@ -6,11 +8,9 @@ on:
     pull_request:
       branches:
         - docs/*
-
-name: Build and deploy
   
 jobs:
-    build-deploy:
+    first:
       runs-on: ubuntu-latest
       permissions:
         contents: write
