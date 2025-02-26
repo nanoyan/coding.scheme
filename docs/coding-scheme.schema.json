@@ -9,7 +9,7 @@
       "type": "string",
       "description": "Major and minor of the version of the data structure.",
       "pattern": "^\\d+\\.\\d+$",
-      "examples": ["3.5", "4.10"]
+      "examples": ["3.5", "556.10"]
     },
     "variableCodings": {
       "type": "array",
