@@ -77,7 +77,7 @@
 ```
 
 ```json
-"4.10"
+"556.10"
 ```
 
 | Restrictions                      |                                                                                                    |
@@ -649,4 +649,4 @@ Must be one of:
 | **Required** | No       |
 
 ----------------------------------------------------------------------------------------------------------------------------
-Generated using [json-schema-for-humans](https://github.com/coveooss/json-schema-for-humans) on 2025-02-25 at 16:44:39 +0100
+Generated using [json-schema-for-humans](https://github.com/coveooss/json-schema-for-humans) on 2025-02-26 at 09:56:31 +0000
